@@ -1,0 +1,63 @@
+{
+  "Equity Scheme": [
+    "Large & Mid Cap Fund",
+    "Flexi Cap Fund",
+    "ELSS",
+    "Small Cap Fund",
+    "Large Cap Fund",
+    "Value Fund",
+    "Mid Cap Fund",
+    "Multi Cap Fund",
+    "Dividend Yield Fund",
+    "Focused Fund",
+    "Contra Fund",
+    "Sectoral/ Thematic"
+  ],
+  "Debt Scheme": [
+    "Medium to Long Duration Fund",
+    "Liquid Fund",
+    "Gilt Fund",
+    "Medium Duration Fund",
+    "Money Market Fund",
+    "Long Duration Fund",
+    "Dynamic Bond",
+    "Low Duration Fund",
+    "Corporate Bond Fund",
+    "Overnight Fund",
+    "Floater Fund",
+    "Short Duration Fund",
+    "Ultra Short Duration Fund",
+    "Credit Risk Fund",
+    "Banking and PSU Fund",
+    "Gilt Fund with 10 year constant duration"
+  ],
+  "Hybrid Scheme": [
+    "Aggressive Hybrid Fund",
+    "Dynamic Asset Allocation or Balanced Advantage",
+    "Conservative Hybrid Fund",
+    "Multi Asset Allocation",
+    "Equity Savings",
+    "Balanced Hybrid Fund",
+    "Arbitrage Fund"
+  ],
+  "Other Scheme": [
+    "Index Funds",
+    "Other  ETFs",
+    "FoF Domestic",
+    "Gold ETF",
+    "FoF Overseas"
+  ],
+  "Solution Oriented Scheme": [
+    "Retirement Fund",
+    "Children s Fund"
+  ],
+  "Balanced": [],
+  "Growth": [],
+  "Income": [],
+  "ELSS": [],
+  "Gilt": [],
+  "Liquid": [],
+  "Money Market": [],
+  "Floating Rate": [],
+  "Assured Return": []
+}

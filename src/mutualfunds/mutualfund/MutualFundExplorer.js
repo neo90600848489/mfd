@@ -206,9 +206,9 @@ const MutualFundExplorer = () => {
                   <td style={{ padding: 12, fontWeight: 600 }}>{fund['Scheme Name']}</td>
                   <td style={{ padding: 12, color: '#d32f2f', textAlign: 'center' }}>Very High Risk</td>
                   <td style={{ padding: 12, textAlign: 'center' }}>{fund['Scheme Category']}</td>
-                  <td style={{ padding: 12, textAlign: 'center' }}>--%</td>
-                  <td style={{ padding: 12, textAlign: 'center' }}>--%</td>
-                  <td style={{ padding: 12, textAlign: 'center' }}>--%</td>
+                  <td style={{ padding: 12, textAlign: 'center' }}>{fund['csv_returnM12'] ? fund['csv_returnM12'] : '---'}</td>
+                  <td style={{ padding: 12, textAlign: 'center' }}>{fund['csv_returnM36'] ? fund['csv_returnM36'] : '---'}</td>
+                  <td style={{ padding: 12, textAlign: 'center' }}>{fund['csv_returnM60'] ? fund['csv_returnM60'] : '---'}</td>
                   <td style={{ padding: 12, textAlign: 'center', position: 'relative' }}>
                     <button
                       onClick={(e) => {
